@@ -38,11 +38,13 @@ Explorar os principais conceitos e aplicações da Acústica Submarina, utilizan
 2. CURADORIA DE FONTES:
 
 2.1 FONTES DE VÍDEO:
+
 https://www.youtube.com/live/8hMSlZ8bo0A?si=2K5NSJFYofTDIUXQv
 
 https://youtu.be/4x0BF834Pk4?si=8vEMilzirKofxr-p
 
 2.2 FONTES DE TEXTO: 
+
 https://pt.wikipedia.org/wiki/Hidroac%C3%BAstica
 
 https://es.wikipedia.org/wiki/Ac%C3%BAstica_subacu%C3%A1tica
@@ -213,3 +215,6 @@ Por esse motivo, este repositório representa não somente a entrega de um desaf
 
 Autoria: Lavinia Copque  
 Data: 18/09/2026
+
+LINK DO NOTEBOOKLM: 
+https://notebook.google.com/notebook/a1a26bd3-28b1-420d-ae40-c60529026f00
