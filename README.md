@@ -1,4 +1,4 @@
-# miniguia_estudos_projetos_notebooklm
+ # Miniguia de Estudos — Acústica Submarina
 Desafio do Bootcamp Bradesco GenIA, Dados &amp; Cyber oferecido pela DIO.
 
 1. CONTEXTO E OBJETIVOS:
@@ -6,9 +6,7 @@ Desafio do Bootcamp Bradesco GenIA, Dados &amp; Cyber oferecido pela DIO.
 1.1 CONTEXTO: 
 
 A escolha do tema Acústica Submarina surgiu inicialmente da minha curiosidade sobre tecnologias relacionadas ao sonar marítimo e ao ultrassom.
-A partir dessas primeiras ideias, comecei a investigar como o som se comporta no ambiente submarino e como esse fenômeno pode ser ex
-
-plorado por diferentes tecnologias. Durante a pesquisa, percebi que a acústica submarina possui aplicações que vão muito além da simples localização de objetos, envolvendo áreas como monitoramento, navegação, pesquisa científica, defesa, exploração dos oceanos e estudos ambientais.
+A partir dessas primeiras ideias, comecei a investigar como o som se comporta no ambiente submarino e como esse fenômeno pode ser explorado por diferentes tecnologias. Durante a pesquisa, percebi que a acústica submarina possui aplicações que vão muito além da simples localização de objetos, envolvendo áreas como monitoramento, navegação, pesquisa científica, defesa, exploração dos oceanos e estudos ambientais.
 Como graduanda em Engenharia de Computação, meu interesse está especialmente na possibilidade de relacionar conhecimentos de tecnologia computacional e sistemas embarcados com o ambiente marinho.
 Este estudo também está relacionado a uma possibilidade de direcionamento para meu Trabalho de Conclusão de Curso (TCC), buscando futuramente investigar soluções que utilizem computação, sistemas embarcados, processamento de sinais ou inteligência artificial aplicados ao ambiente marinho.
 
@@ -18,34 +16,37 @@ Explorar os principais conceitos e aplicações da Acústica Submarina, utilizan
 
 1.3 OBJETIVOS ESPECÍFICOS:
 
-Compreender os fundamentos da acústica submarina e da propagação do som na água.
+- Compreender os fundamentos da acústica submarina e da propagação do som na água.
 
-Identificar aplicações tecnológicas relacionadas ao som em ambientes subaquáticos.
+- Identificar aplicações tecnológicas relacionadas ao som em ambientes subaquáticos.
 
-Investigar o funcionamento e a utilização de sistemas de escuta passiva.
+- Investigar o funcionamento e a utilização de sistemas de escuta passiva.
 
-Compreender a evolução das tecnologias utilizadas para detectar, interpretar e processar sons submarinos.
+- Compreender a evolução das tecnologias utilizadas para detectar, interpretar e processar sons submarinos.
 
-Investigar a relação entre acústica submarina, sistemas embarcados e processamento computacional.
+- Investigar a relação entre acústica submarina, sistemas embarcados e processamento computacional.
 
-Identificar possíveis aplicações civis, científicas e ambientais dessas tecnologias.
+- Identificar possíveis aplicações civis, científicas e ambientais dessas tecnologias.
 
-Utilizar técnicas de engenharia de prompts para aprofundar e organizar o estudo.
+- Utilizar técnicas de engenharia de prompts para aprofundar e organizar o estudo.
 
-Consolidar os conhecimentos obtidos em um miniguia de estudos.
+- Consolidar os conhecimentos obtidos em um miniguia de estudos.
 
-Identificar possíveis caminhos para um futuro projeto de TCC relacionado à tecnologia e ao ambiente marinho.
+- Identificar possíveis caminhos para um futuro projeto de TCC relacionado à tecnologia e ao ambiente marinho.
 
 
 2. CURADORIA DE FONTES:
 
 2.1 FONTES DE VÍDEO:
 https://www.youtube.com/live/8hMSlZ8bo0A?si=2K5NSJFYofTDIUXQv
+
 https://youtu.be/4x0BF834Pk4?si=8vEMilzirKofxr-p
 
 2.2 FONTES DE TEXTO: 
 https://pt.wikipedia.org/wiki/Hidroac%C3%BAstica
+
 https://es.wikipedia.org/wiki/Ac%C3%BAstica_subacu%C3%A1tica
+
 https://pt.wikipedia.org/wiki/Geoac%C3%BAstica_submarina
 
 
@@ -65,10 +66,10 @@ Dessa forma, cada resposta serviu como ponto de partida para a próxima pergunta
 "Quais são as principais aplicações tecnológicas do som submarino?"
 
 PROBLEMA ENCONTRADO:
-Recebi alguns exemplos dessas aplicações, no entanto, foram muito breves e com pouca explicação. Com isso, escolhi uma das tecnologias para aprofundar o conhecimento
+Recebi alguns exemplos dessas aplicações, no entanto, foram muito breves e com pouca explicação. Com isso, escolhi uma das tecnologias para aprofundar o conhecimento.
 
 3.2 PROMPT 2:
-"Se aprofundando a "aplicação em sistemas de escuta passiva", responda os seguintes questionamentos: 
+"Se aprofundando a 'aplicação em sistemas de escuta passiva', responda os seguintes questionamentos: 
 quando descobriram e associaram essa aplicação à utilização marítima; 
 como os militares utilizam essa tecnologia em seu cotidiano ou é de utilização rara; 
 como essa tecnologia pode ser aplicada ao cotidiano dos civis, sendo possível, qual seria a sua principal responsabilidade;
@@ -87,7 +88,7 @@ Resposta sucinta, com poucos exemplos de como é aplicado, com foco na evoluçã
 3.4 PROMPT 4:
 "Sabendo-se que o som se propaga mais rápido na água que no ar, me explique como o ouvido humano saudável e sem proteção reage nesse quesito de propagação hidroacústica."
 
-PROBLEMA ENCONTRADO/ PONTO DE ATENÇÃO:
+PROBLEMA ENCONTRADO / PONTO DE ATENÇÃO:
 Para essa resposta, ele utilizou um pouco mais de tempo pois propus um desafio, já que não enviei fontes diretas sobre a ciência humana. Com base nas informações disponíveis e nas referências utilizadas, conseguiu explicar o assunto com dados e explicações que considerei bem aplicadas para o objetivo exploratório.
 
 Porém, percebi que essa questão sobre o comportamento do ouvido humano estava presente apenas como exemplo em algumas das fontes e não como uma base de pesquisa própria. Logo, esse conteúdo deverá ser posteriormente confrontado com fontes específicas de fisiologia e audição antes de ser utilizado em uma pesquisa acadêmica.
@@ -122,14 +123,15 @@ Essa cadeia representa uma possível direção para futuras investigações.
 A pesquisa inicial despertou algumas possibilidades de investigação que poderão ser aprofundadas posteriormente.
 
 Entre elas estão:
-Processamento digital de sinais acústicos submarinos;
-Sistemas embarcados para aquisição de sinais;
-Classificação automática de sons submarinos;
-Utilização de aprendizado de máquina para identificação de padrões acústicos;
-Monitoramento acústico ambiental;
-Identificação de fontes sonoras no ambiente marinho;
-Desenvolvimento de sistemas de baixo consumo para monitoramento subaquático;
-Integração entre sensores, sistemas embarcados e inteligência artificial.
+
+- Processamento digital de sinais acústicos submarinos;
+- Sistemas embarcados para aquisição de sinais;
+- Classificação automática de sons submarinos;
+- Utilização de aprendizado de máquina para identificação de padrões acústicos;
+- Monitoramento acústico ambiental;
+- Identificação de fontes sonoras no ambiente marinho;
+- Desenvolvimento de sistemas de baixo consumo para monitoramento subaquático;
+- Integração entre sensores, sistemas embarcados e inteligência artificial.
 
 Essas possibilidades ainda representam direções de investigação, e não uma definição final do tema do TCC.
 
